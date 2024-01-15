@@ -1,0 +1,23 @@
+{
+    "name": "ulnjs",
+    "version": "1.0.0",
+    "description": "Unique Learner Number (ULN) library for JavaScript",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node --test"
+    },
+    "keywords": [
+        "uln"
+    ],
+    "author": {
+        "name": "Matthew Gibbons",
+        "email": "mhgibbons@me.com",
+        "url": "https://github.com/accuser"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/accuser/ulnjs.git"
+    },
+    "license": "Apache-2.0"
+}
