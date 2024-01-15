@@ -1,5 +1,5 @@
 {
-    "name": "ulnjs",
+    "name": "@accuser/ulnjs",
     "version": "1.0.0",
     "description": "Unique Learner Number (ULN) library for JavaScript",
     "main": "src/index.js",
