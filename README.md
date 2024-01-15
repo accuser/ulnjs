@@ -1,4 +1,4 @@
-# Uniqu Learner Number
+# Unique Learner Number
 
 A Unique Learner Number (ULN) is a unique identifier assigned to learners in the United Kingdom. It is used to track and record an individual's learning and qualifications across different educational institutions and training providers.
 
